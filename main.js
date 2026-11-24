@@ -4,6 +4,7 @@ botoes.forEach(function (botao) {
     let curtio = false;
     botao.addEventListener("click, botaoClicado");
     
+
     
 }
     

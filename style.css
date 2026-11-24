@@ -37,3 +37,53 @@ img{
     font-weight: bold;
 
 }
+/* TEMA ESCURO */
+.tema-escuro p {
+  color: xxx;
+}
+
+.tema-escuro header p {
+  color: xxx;
+  font-weight: 600;
+}
+
+.tema-escuro a {
+  color: xxx;
+}
+
+.tema-escuro button {
+  border: none;
+  background-color: xxx;
+  color: xxx;
+}
+
+.tema-escuro article {
+  background-color: #f7eeee0c;
+}
+
+.tema-escuro h2 {
+  color: xxx;
+}
+
+.tema-escuro .artigo-autor {
+  color: xxx;
+}
+
+.tema-escuro .btn-tema-escuro {
+  background-color:;
+}
+
+.btn-tema-escuro {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  font-size: 32px;
+  padding: 12px;
+  background-color: xxx;
+  border-radius: 50%;
+}
+
+.tema-escuro footer {
+  background-color: ;
+  color: ;
+}
