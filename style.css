@@ -13,7 +13,7 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
-    flex-wrap: 
+    flex-wrap: 16px;
 }
 article{
     display: flex;
